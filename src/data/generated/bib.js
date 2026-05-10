@@ -1,4 +1,4 @@
-const generatedBibEntries = {
+var generatedBibEntries = {
   "frazier2018tutorial": {
     "abstract": "Bayesian optimization is an approach to optimizing objective functions that take a long time to evaluate. It builds a surrogate for the objective and quantifies the uncertainty using Gaussian process regression, then uses an acquisition function to decide where to sample next.",
     "author": "Frazier, Peter I.",
